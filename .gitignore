@@ -1,0 +1,16 @@
+*~
+*.pyc
+*.swp
+build
+dist
+MANIFEST
+version.txt
+locale/*.mo
+*.xml.es
+*.xml.en
+*.xml.it
+*.xml.zh
+*.xhtml.es
+*.xhtml.en
+*.xhtml.it
+*.xhtml.zh
